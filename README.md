@@ -1,39 +1,38 @@
 # Hi, I'm Roghaye Fazli 👩‍💻
 
-M.Sc. AI student focused on **edge computing** and **time series forecasting**.  
-2+ years teaching Python & ML · Currently writing two research papers.
+M.Sc. AI student focused on **edge computing** and **time series forecasting**.
+
+2+ years teaching Python and Machine Learning. Research interests include efficient object detection for edge devices and deep learning for sequential data.
 
 ---
 
-## 🔬 Research
+## 🚀 Featured Research & Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Drone Object Detection](#) | Optimised YOLOv8 for embedded drone hardware — best mAP/parameter ratio on VisDrone dataset (mAP@50 = 33.97%) | 📝 Paper in prep |
-| [Gold Price Forecasting](#) | Hybrid CNN-LSTM model for time series prediction — improved accuracy from 95% → 99% | 📝 Paper in prep |
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python (advanced) · SQL · C/C++ (basic)  
-**ML/DL:** PyTorch · TensorFlow · Keras · Scikit-learn · YOLOv8  
-**Focus areas:** CNN · LSTM · Object Detection · Edge Computing · IoT · Time Series
+| Project | Key Achievements |
+| :--- | :--- |
+| **[Drone Object Detection](YOUR_REPO_LINK_HERE)** | Optimized YOLOv8 on the VisDrone dataset, achieving **mAP@50 = 33.97%** with a **20× reduction in parameters** for edge deployment. |
+| **[Gold Price Forecasting](YOUR_REPO_LINK_HERE)** | Developed a hybrid **CNN-LSTM architecture**, improving forecasting performance from **95% to 99%**. |
 
 ---
 
-## 📜 Certifications
+## 🛠️ Technical Skills
 
-- Machine Learning — **100%**
-- Deep Learning — **100%**
-- IoT — **100%**
-- Python Programming — **95%**
-- CompTIA Network+ — **86%**
+- **Languages:** Python, SQL, C/C++
+- **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-Learn
+- **Computer Vision:** YOLOv8, OpenCV, CNNs
+- **Data Science:** Pandas, NumPy, Matplotlib
+- **Systems & MLOps:** Linux, Git, Edge Computing, IoT, Docker (Basic)
 
 ---
 
-## 📫 Connect
+## 📂 Additional Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-roghayefazli-blue)](https://linkedin.com/in/roghayefazli)
+- **[Emotion Detection from Social Media Text](YOUR_REPO_LINK_HERE)** — Built NLP text processing pipelines to extract and classify human emotions from unstructured datasets. *(Python, Scikit-Learn, Pandas)*
+- **[Deep Learning Conversational Chatbot](YOUR_REPO_LINK_HERE)** — Implemented a generative sequence-to-sequence (Seq2Seq) neural network framework. *(TensorFlow, TensorLayer)*
 
-> *Open to ML/AI roles in Yerevan and remote positions.*
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/roghayefazli](https://linkedin.com/in/roghayefazli)
+- **Email:** *roghayefazlii@gmail.com
